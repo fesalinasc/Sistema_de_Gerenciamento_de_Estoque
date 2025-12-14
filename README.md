@@ -137,6 +137,6 @@ Ao iniciar o programa, o usuário tem acesso ao menu:
 
 ---
 
-## 👤 Autor
+## 👨‍💻 Autor
 
 **Felipe Salinas Caodaglio**
