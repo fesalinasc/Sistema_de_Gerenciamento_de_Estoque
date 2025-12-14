@@ -136,6 +136,12 @@ Ao iniciar o programa, o usuário tem acesso ao menu:
 * Cálculo da média de estoque por filial
 
 ---
+## 🇺🇸 (English Version)
+
+
+➡️ **([English Version](README.en.md))**
+
+---
 
 ## 👨‍💻 Autor
 
